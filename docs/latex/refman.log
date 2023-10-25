@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.25)  25 OCT 2023 13:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.25)  25 OCT 2023 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -795,8 +795,7 @@ d-pdftex.def
 File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count342
 \l__pdf_internal_box=\box123
-)
-No file refman.aux.
+) (refman.aux)
 \openout1 = `refman.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 183.
@@ -879,12 +878,13 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 Package backref Info: ** backref set up for natbib ** on input line 183.
 Package hyperref Info: Link coloring ON on input line 183.
+(refman.out) (refman.out)
 \@outlinefile=\write5
 \openout5 = `refman.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-No file refman.toc.
+\Etoc@tf=\read4
 Package hyperref Info: Option `pageanchor' set `false' on input line 191.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 191.
 
@@ -892,7 +892,27 @@ Package hyperref Info: Option `unicode' set `true' on input line 191.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 12.9599pt on input line 196.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 198.
+(Font)              scaled to size 10.79993pt on input line 197.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 6.29996pt on input line 197.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 197
+.
+
+(C:\Users\unai.marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 197
+.
+
+(C:\Users\unai.marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 19
+7.
+
+(C:\Users\unai.marti\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
 [1
 
 
@@ -904,37 +924,238 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 \tf@toc=\write6
 \openout6 = `refman.toc'.
 
-Package hyperref Info: Option `pageanchor' set `true' on input line 207.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 205.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 6.29996pt on input line 205.
+ [1] [2]
+Package hyperref Info: Option `pageanchor' set `true' on input line 208.
 
-No file refman.ind.
-(refman.aux)
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 18.66588pt on input line 210.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 18.66588pt on input line 210.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 210.
+(topics.tex
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 1.
+) [1
+
+
+] [2
+
+]
+Chapter 2.
+(files.tex) [3] [4
+
+]
+Chapter 3.
+(group___c_m_s_i_s.tex
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 6
+.
+
+(C:\Users\unai.marti\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 6.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 10.
+
+(group__stm32g4xx__system.tex
+(group___s_t_m32_g4xx___system___private___includes.tex
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 20.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 20
+.
+
+(C:\Users\unai.marti\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+))
+(group___s_t_m32_g4xx___system___private___types_definitions.tex [5])
+(group___s_t_m32_g4xx___system___private___defines.tex)
+(group___s_t_m32_g4xx___system___private___macros.tex)
+(group___s_t_m32_g4xx___system___private___variables.tex)
+(group___s_t_m32_g4xx___system___private___function_prototypes.tex)
+(group___s_t_m32_g4xx___system___private___functions.tex
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 7.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.09995pt on input line 7.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 9.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 6.29996pt on input line 9.
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <8> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 8.99994pt on input line 26.
+
+Underfull \hbox (badness 10000) detected at line 26
+[][][]
+ []
+
+[6] [7]))) [8]
+Chapter 4.
+(main_8c.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 29
+[][][]
+ []
+
+[9
+
+]) (stm32g4xx__hal__msp_8c.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) detected at line 23
+[][][]
+ []
+
+[11]) (stm32g4xx__it_8c.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 45
+[][][]
+ []
+
+) (syscalls_8c.tex [12]
+Underfull \hbox (badness 10000) in paragraph at lines 8--16
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 87
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 94
+[][][]
+ []
+
+) (sysmem_8c.tex [13]
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 20
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 27
+[][][]
+ []
+
+[14]
+Underfull \hbox (badness 10000) detected at line 60
+[][][]
+ []
+
+) (system__stm32g4xx_8c.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 37
+[][][]
+ []
+
+[15]
+Underfull \hbox (badness 10000) detected at line 63
+[][][]
+ []
+
+) [16] (refman.ind
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 22.39185pt on input line 1.
+
+Overfull \hbox (55.66104pt too wide) in paragraph at lines 8--10
+[]\T1/phv/m/n/10 C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/main.c,
+
+ []
+
+
+Overfull \hbox (118.37207pt too wide) in paragraph at lines 10--12
+[]\T1/phv/m/n/10 C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4
+xx_hal_msp.c,
+ []
+
+
+Overfull \hbox (89.17645pt too wide) in paragraph at lines 12--14
+[]\T1/phv/m/n/10 C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4
+xx_it.c,
+ []
+
+
+Overfull \hbox (67.52312pt too wide) in paragraph at lines 14--16
+[]\T1/phv/m/n/10 C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/syscall
+s.c,
+ []
+
+
+Overfull \hbox (69.65599pt too wide) in paragraph at lines 16--18
+[]\T1/phv/m/n/10 C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/sysmem.
+c,
+ []
+
+
+Overfull \hbox (113.17921pt too wide) in paragraph at lines 18--20
+[]\T1/phv/m/n/10 C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/system_
+stm32g4xx.c,
+ []
+
+[17
+
+
+
+]) (refman.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
-
-
-Package rerunfilecheck Warning: File `refman.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `refman.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `refman.out' has not changed.
+(rerunfilecheck)             Checksum: 5EB28D36DE8CC5D6842769A88AA40349;12680.
  ) 
 Here is how much of TeX's memory you used:
- 17490 strings out of 474824
- 281633 string characters out of 5748616
- 1922043 words of memory out of 5000000
- 39176 multiletter control sequences out of 15000+600000
- 566454 words of font info for 43 fonts, out of 8000000 for 9000
+ 18184 strings out of 474824
+ 301195 string characters out of 5748616
+ 1946043 words of memory out of 5000000
+ 39589 multiletter control sequences out of 15000+600000
+ 611739 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,5n,117p,329b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/unai.marti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
-hvr8a.pfb>
-Output written on refman.pdf (2 pages, 8963 bytes).
+ 101i,16n,117p,961b,742s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/unai.marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb><C:/Users/unai.marti/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Users/unai.marti/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/unai.marti/AppData/Local/P
+rograms/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/unai.marti/AppData/
+Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb><C:/Users/unai.marti/
+AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/una
+i.marti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8ac.pfb><C:/
+Users/unai.marti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.
+pfb><C:/Users/unai.marti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic
+/uhvro8a.pfb>
+Output written on refman.pdf (21 pages, 202101 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 1 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 639 PDF objects out of 1000 (max. 8388607)
+ 180 named destinations out of 1000 (max. 500000)
+ 425 words of extra memory for PDF output out of 10000 (max. 10000000)
 

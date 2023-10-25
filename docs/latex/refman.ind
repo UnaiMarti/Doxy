@@ -1,0 +1,76 @@
+\begin{theindex}
+
+  \item {\_sbrk}
+    \subitem {sysmem.c}, \hyperpage{14}
+
+  \indexspace
+
+  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/main.c}, 
+		\hyperpage{9}
+  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_hal\_msp.c}, 
+		\hyperpage{10}
+  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_it.c}, 
+		\hyperpage{12}
+  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/syscalls.c}, 
+		\hyperpage{13}
+  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/sysmem.c}, 
+		\hyperpage{14}
+  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/system\_stm32g4xx.c}, 
+		\hyperpage{15}
+  \item {CMSIS}, \hyperpage{5}
+
+  \indexspace
+
+  \item {Error\_Handler}
+    \subitem {main.c}, \hyperpage{9}
+
+  \indexspace
+
+  \item {HAL\_MspInit}
+    \subitem {stm32g4xx\_hal\_msp.c}, \hyperpage{11}
+  \item {HAL\_UART\_MspDeInit}
+    \subitem {stm32g4xx\_hal\_msp.c}, \hyperpage{11}
+  \item {HAL\_UART\_MspInit}
+    \subitem {stm32g4xx\_hal\_msp.c}, \hyperpage{11}
+  \item {HSE\_VALUE}
+    \subitem {STM32G4xx\_System\_Private\_Includes}, \hyperpage{6}
+  \item {HSI\_VALUE}
+    \subitem {STM32G4xx\_System\_Private\_Includes}, \hyperpage{6}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.c}, \hyperpage{10}
+  \item {main.c}
+    \subitem {Error\_Handler}, \hyperpage{9}
+    \subitem {main}, \hyperpage{10}
+    \subitem {SystemClock\_Config}, \hyperpage{10}
+
+  \indexspace
+
+  \item {stm32g4xx\_hal\_msp.c}
+    \subitem {HAL\_MspInit}, \hyperpage{11}
+    \subitem {HAL\_UART\_MspDeInit}, \hyperpage{11}
+    \subitem {HAL\_UART\_MspInit}, \hyperpage{11}
+  \item {Stm32g4xx\_system}, \hyperpage{5}
+  \item {STM32G4xx\_System\_Private\_Defines}, \hyperpage{6}
+  \item {STM32G4xx\_System\_Private\_FunctionPrototypes}, \hyperpage{6}
+  \item {STM32G4xx\_System\_Private\_Functions}, \hyperpage{6}
+    \subitem {SystemCoreClockUpdate}, \hyperpage{7}
+    \subitem {SystemInit}, \hyperpage{7}
+  \item {STM32G4xx\_System\_Private\_Includes}, \hyperpage{5}
+    \subitem {HSE\_VALUE}, \hyperpage{6}
+    \subitem {HSI\_VALUE}, \hyperpage{6}
+  \item {STM32G4xx\_System\_Private\_Macros}, \hyperpage{6}
+  \item {STM32G4xx\_System\_Private\_TypesDefinitions}, \hyperpage{6}
+  \item {STM32G4xx\_System\_Private\_Variables}, \hyperpage{6}
+  \item {sysmem.c}
+    \subitem {\_sbrk}, \hyperpage{14}
+  \item {SystemClock\_Config}
+    \subitem {main.c}, \hyperpage{10}
+  \item {SystemCoreClockUpdate}
+    \subitem {STM32G4xx\_System\_Private\_Functions}, \hyperpage{7}
+  \item {SystemInit}
+    \subitem {STM32G4xx\_System\_Private\_Functions}, \hyperpage{7}
+
+\end{theindex}
