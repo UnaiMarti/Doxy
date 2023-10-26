@@ -5,19 +5,13 @@
 
   \indexspace
 
-  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/main.c}, 
-		\hyperpage{9}
-  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_hal\_msp.c}, 
-		\hyperpage{10}
-  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_it.c}, 
-		\hyperpage{12}
-  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/syscalls.c}, 
-		\hyperpage{13}
-  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/sysmem.c}, 
-		\hyperpage{14}
-  \item {C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/system\_stm32g4xx.c}, 
-		\hyperpage{15}
   \item {CMSIS}, \hyperpage{5}
+  \item {Core/Src/main.c}, \hyperpage{9}
+  \item {Core/Src/stm32g4xx\_hal\_msp.c}, \hyperpage{10}
+  \item {Core/Src/stm32g4xx\_it.c}, \hyperpage{12}
+  \item {Core/Src/syscalls.c}, \hyperpage{13}
+  \item {Core/Src/sysmem.c}, \hyperpage{14}
+  \item {Core/Src/system\_stm32g4xx.c}, \hyperpage{15}
 
   \indexspace
 

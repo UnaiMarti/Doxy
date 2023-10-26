@@ -15,23 +15,23 @@
 \indexentry{SystemCoreClockUpdate@{SystemCoreClockUpdate}!STM32G4xx\_System\_Private\_Functions@{STM32G4xx\_System\_Private\_Functions}|hyperpage}{7}
 \indexentry{STM32G4xx\_System\_Private\_Functions@{STM32G4xx\_System\_Private\_Functions}!SystemInit@{SystemInit}|hyperpage}{7}
 \indexentry{SystemInit@{SystemInit}!STM32G4xx\_System\_Private\_Functions@{STM32G4xx\_System\_Private\_Functions}|hyperpage}{7}
-\indexentry{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/main.c@{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/main.c}|hyperpage}{9}
+\indexentry{Core/Src/main.c@{Core/Src/main.c}|hyperpage}{9}
 \indexentry{main.c@{main.c}!Error\_Handler@{Error\_Handler}|hyperpage}{9}
 \indexentry{Error\_Handler@{Error\_Handler}!main.c@{main.c}|hyperpage}{9}
 \indexentry{main.c@{main.c}!main@{main}|hyperpage}{10}
 \indexentry{main@{main}!main.c@{main.c}|hyperpage}{10}
 \indexentry{main.c@{main.c}!SystemClock\_Config@{SystemClock\_Config}|hyperpage}{10}
 \indexentry{SystemClock\_Config@{SystemClock\_Config}!main.c@{main.c}|hyperpage}{10}
-\indexentry{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_hal\_msp.c@{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_hal\_msp.c}|hyperpage}{10}
+\indexentry{Core/Src/stm32g4xx\_hal\_msp.c@{Core/Src/stm32g4xx\_hal\_msp.c}|hyperpage}{10}
 \indexentry{stm32g4xx\_hal\_msp.c@{stm32g4xx\_hal\_msp.c}!HAL\_MspInit@{HAL\_MspInit}|hyperpage}{11}
 \indexentry{HAL\_MspInit@{HAL\_MspInit}!stm32g4xx\_hal\_msp.c@{stm32g4xx\_hal\_msp.c}|hyperpage}{11}
 \indexentry{stm32g4xx\_hal\_msp.c@{stm32g4xx\_hal\_msp.c}!HAL\_UART\_MspDeInit@{HAL\_UART\_MspDeInit}|hyperpage}{11}
 \indexentry{HAL\_UART\_MspDeInit@{HAL\_UART\_MspDeInit}!stm32g4xx\_hal\_msp.c@{stm32g4xx\_hal\_msp.c}|hyperpage}{11}
 \indexentry{stm32g4xx\_hal\_msp.c@{stm32g4xx\_hal\_msp.c}!HAL\_UART\_MspInit@{HAL\_UART\_MspInit}|hyperpage}{11}
 \indexentry{HAL\_UART\_MspInit@{HAL\_UART\_MspInit}!stm32g4xx\_hal\_msp.c@{stm32g4xx\_hal\_msp.c}|hyperpage}{11}
-\indexentry{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_it.c@{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/stm32g4xx\_it.c}|hyperpage}{12}
-\indexentry{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/syscalls.c@{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/syscalls.c}|hyperpage}{13}
-\indexentry{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/sysmem.c@{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/sysmem.c}|hyperpage}{14}
+\indexentry{Core/Src/stm32g4xx\_it.c@{Core/Src/stm32g4xx\_it.c}|hyperpage}{12}
+\indexentry{Core/Src/syscalls.c@{Core/Src/syscalls.c}|hyperpage}{13}
+\indexentry{Core/Src/sysmem.c@{Core/Src/sysmem.c}|hyperpage}{14}
 \indexentry{sysmem.c@{sysmem.c}!\_sbrk@{\_sbrk}|hyperpage}{14}
 \indexentry{\_sbrk@{\_sbrk}!sysmem.c@{sysmem.c}|hyperpage}{14}
-\indexentry{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/system\_stm32g4xx.c@{C:/Users/unai.marti/MIS COSAS/REPOS/Doxy/Doxy/Core/Src/system\_stm32g4xx.c}|hyperpage}{15}
+\indexentry{Core/Src/system\_stm32g4xx.c@{Core/Src/system\_stm32g4xx.c}|hyperpage}{15}
