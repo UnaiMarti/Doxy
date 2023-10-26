@@ -4,6 +4,8 @@
   * @file           : main.c
   * @brief          : Main program body
   * @author			: Unai Marti
+  *
+  * personal access token: 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
   ******************************************************************************
   * @attention
   *
